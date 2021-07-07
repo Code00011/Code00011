@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Code00011(Joseph Sakala)
+   A Zambian of age 19 years.
 - 👀 I’m interested in web design and game developing
 - 🌱 I’m currently learning how to code
 - 📫 contact me via my email address 
